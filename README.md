@@ -1,7 +1,7 @@
 # Speaker Recognintion Project
 
 Collaborators: 
-@mayakhasarasajii [https://github.com/rahulzach/IIIT-Speaker-recognition/commits?author=mayakhasarasajii]
+@mayakhasarasajii [https://github.com/mayakhasarasajii]
 
 
 1. Problem Statement
