@@ -14,6 +14,6 @@ Our dataset, "Speaker Recognition Dataset - Prominent leaders speeches," was tak
 
 The original lengthy speeches were segmented into one-second chunks (0.wav to 1500.wav) for ease of handling, and combining these chunks reconstructs the complete speech for each respective leader. Additionally, a folder named "background_noise" contains non-speech audio clips that mimic ambient sounds found in and around the speaker's environment, such as audience laughter or clapping. These background noises can be incorporated during the training phase to enhance the model's robustness.
 
-To Access the Speaker Recognition Dataset you can refer to :
+To Access the Speaker Recognition Dataset:
 
 https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset/data
