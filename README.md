@@ -1,5 +1,9 @@
 # Speaker Recognintion Project
 
+Collaborators: 
+@mayakhasarasaji[https://github.com/rahulzach/IIIT-Speaker-recognition/commits?author=mayakhasarasajii]
+
+
 1. Problem Statement
 
 Speaker recognition systems are in greater demand as a result of the increased reliance on voice-based applications and security systems. Our goal in this project is to use machine learning and Python to create a sophisticated speaker recognition system. In order to replicate real-world situations, the research will incorporate background noise and analyze audio data from five well-known speakers.
